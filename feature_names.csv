@@ -1,0 +1,17 @@
+features
+age
+sex
+bmi
+family_history_diabetes
+physically_active
+has_hypertension
+fasting_glucose_mg_dl
+hba1c_percent
+total_cholesterol_mg_dl
+ldl_mg_dl
+hdl_mg_dl
+triglycerides_mg_dl
+residence
+is_pregnant
+pcos
+hiv_positive
