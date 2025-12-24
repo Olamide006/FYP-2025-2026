@@ -395,6 +395,6 @@ st.markdown("---")
 st.markdown("""
 <div style='text-align: center'>
     <p>Developed by Olamide Babatunde - Department of Computer Science, University of Ilorin</p>
-    <p>Final Year Project - 2025/2027</p>
+    <p>Final Year Project - 2025/2026</p>
 </div>
 """, unsafe_allow_html=True)
